@@ -1,0 +1,7 @@
+C:\Users\Ezizchik\source\repos\MiniMiniConsoleApp\MiniMiniConsoleApp\bin\Debug\MiniMiniConsoleApp.exe.config
+C:\Users\Ezizchik\source\repos\MiniMiniConsoleApp\MiniMiniConsoleApp\bin\Debug\MiniMiniConsoleApp.exe
+C:\Users\Ezizchik\source\repos\MiniMiniConsoleApp\MiniMiniConsoleApp\bin\Debug\MiniMiniConsoleApp.pdb
+C:\Users\Ezizchik\source\repos\MiniMiniConsoleApp\MiniMiniConsoleApp\obj\Debug\MiniMiniConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Ezizchik\source\repos\MiniMiniConsoleApp\MiniMiniConsoleApp\obj\Debug\MiniMiniConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Ezizchik\source\repos\MiniMiniConsoleApp\MiniMiniConsoleApp\obj\Debug\MiniMiniConsoleApp.exe
+C:\Users\Ezizchik\source\repos\MiniMiniConsoleApp\MiniMiniConsoleApp\obj\Debug\MiniMiniConsoleApp.pdb
